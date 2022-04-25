@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @hledacek
-- 👀 I’m interested in Distributed Architectures, Typescript, DevOps, AWS
-- 🌱 I’m currently learning k8s
-- 📫 How to reach me maximperekislov@gmail.com
+- 👀 I’m interested in Distributed Architectures, Typescript, Python, DevOps, AWS
 
 <!---
 hledacek/hledacek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
